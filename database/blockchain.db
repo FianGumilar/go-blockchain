@@ -1,0 +1,3 @@
+{"key":"4fb936c3db6a69db3f6f583801eaa895d1a3cc22e59a19002da1f63c4de3a587","value":{"header":{"prevHash":"0000000000000000000000000000000000000000000000000000000000000000","time":1711293261984487000},"mandates":null}}
+{"key":"7ff1b204b84bd21aa9eebd4c1ddafae73162c8c607ccef8faf57679c45592140","value":{"header":{"prevHash":"4fb936c3db6a69db3f6f583801eaa895d1a3cc22e59a19002da1f63c4de3a587","time":1711293261985176000},"mandates":[{"from":"BBCA","to":"Quuena","value":1}]}}
+{"key":"83fcd2b3c61b1c4832501dd892786d940b1ae89059cbdebb77e0227e4b0f2922","value":{"header":{"prevHash":"7ff1b204b84bd21aa9eebd4c1ddafae73162c8c607ccef8faf57679c45592140","time":1711293268831444000},"mandates":[{"from":"BBCA","to":"Quuena","value":1}]}}
